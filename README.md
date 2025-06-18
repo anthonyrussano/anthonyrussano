@@ -8,6 +8,28 @@
 
 ## 🚀 About Me
 
+```javascript
+const anthony = {
+    code: ["JavaScript", "Python", "Java", "C++"],
+    askMeAbout: ["devops", "tech", "ai", "fatherhood"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Angular"],
+            css: ["Sass", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"],
+            misc: ["PHP", "python"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        misc: ["Docker", "AWS", "Firebase", "Git"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
+
 
 <div align="center">
 
