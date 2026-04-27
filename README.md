@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/codex-stats-dashboard.png" alt="Anthony Russano Codex usage dashboard" width="900" />
-</p>
+<img width="1500" height="1560" alt="codex-stats-dashboard" src="https://github.com/user-attachments/assets/767e2260-e8e1-4598-8380-6c3f0b28dd8e" />
